@@ -1,0 +1,57 @@
+{
+  "uid" : "7e34e3487ceb8c74",
+  "name" : "checkSelectionSectionSauce",
+  "historyId" : "ConstructorTest:ConstructorTest#checkSelectionSectionSauce",
+  "time" : {
+    "duration" : 2217
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b5ea608fb4777051",
+      "name" : "System out",
+      "source" : "b5ea608fb4777051.txt",
+      "type" : "text/plain",
+      "size" : 261
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "package",
+    "value" : "ConstructorTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e34e3487ceb8c74.json",
+  "parameterValues" : [ ]
+}

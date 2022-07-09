@@ -1,0 +1,57 @@
+{
+  "uid" : "dee2c9923ac6a607",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "historyId" : "LogoutUserTest:LogoutUserTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "time" : {
+    "duration" : 2647
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d4ea66664e917583",
+      "name" : "System out",
+      "source" : "d4ea66664e917583.txt",
+      "type" : "text/plain",
+      "size" : 259
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "LogoutUserTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LogoutUserTest"
+  }, {
+    "name" : "package",
+    "value" : "LogoutUserTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dee2c9923ac6a607.json",
+  "parameterValues" : [ ]
+}

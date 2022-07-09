@@ -1,0 +1,57 @@
+{
+  "uid" : "25d8a890f1aa8c7a",
+  "name" : "isCorrectRegistrationUser",
+  "historyId" : "RegistrationUserTest:RegistrationUserTest#isCorrectRegistrationUser",
+  "time" : {
+    "duration" : 10380
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e5c81ccb3ce880bb",
+      "name" : "System out",
+      "source" : "e5c81ccb3ce880bb.txt",
+      "type" : "text/plain",
+      "size" : 266
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RegistrationUserTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationUserTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationUserTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25d8a890f1aa8c7a.json",
+  "parameterValues" : [ ]
+}
