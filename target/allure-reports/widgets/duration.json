@@ -1,0 +1,113 @@
+[ {
+  "uid" : "96a483e85f98117",
+  "name" : "checkSelectionSectionFilling",
+  "time" : {
+    "duration" : 2295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78473a7400b6d236",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "time" : {
+    "duration" : 2848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e34e3487ceb8c74",
+  "name" : "checkSelectionSectionSauce",
+  "time" : {
+    "duration" : 2217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa50c7fb6d62b1d4",
+  "name" : "isRegistrationFailedShortPassword",
+  "time" : {
+    "duration" : 10731
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25d8a890f1aa8c7a",
+  "name" : "isCorrectRegistrationUser",
+  "time" : {
+    "duration" : 10380
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2f9632ffc8cde91",
+  "name" : "isCorrectLoginWithPersonalOffice",
+  "time" : {
+    "duration" : 2206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7b53df10eab7d5d",
+  "name" : "isCorrectLoginViaForgotPasswordPage",
+  "time" : {
+    "duration" : 3071
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5537bf538e992890",
+  "name" : "isCorrectLoginViaRegistrationPage",
+  "time" : {
+    "duration" : 2702
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7bcd67da1ee76f9",
+  "name" : "isCorrectLoginWithLoginButton",
+  "time" : {
+    "duration" : 2188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb80d6d94e78ee01",
+  "name" : "checkDefaultSelectedSectionBulka",
+  "time" : {
+    "duration" : 2180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0fa2a1e75646c0e",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeLogStellarBurgers",
+  "time" : {
+    "duration" : 2714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b64ca20986bdaf7",
+  "name" : "isCorrectGotoPersonalOffice",
+  "time" : {
+    "duration" : 2723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2579ec4ba017c5f4",
+  "name" : "checkSelectionSectionBulka",
+  "time" : {
+    "duration" : 2293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dee2c9923ac6a607",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "time" : {
+    "duration" : 2647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

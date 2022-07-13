@@ -1,0 +1,57 @@
+{
+  "uid" : "2b51b0527d57531e",
+  "name" : "isRegistrationFailedShortPassword",
+  "historyId" : "RegistrationUserTest:RegistrationUserTest#isRegistrationFailedShortPassword",
+  "time" : {
+    "duration" : 10165
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "378eb7468df35ac7",
+      "name" : "System out",
+      "source" : "378eb7468df35ac7.txt",
+      "type" : "text/plain",
+      "size" : 266
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RegistrationUserTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RegistrationUserTest"
+  }, {
+    "name" : "package",
+    "value" : "RegistrationUserTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b51b0527d57531e.json",
+  "parameterValues" : [ ]
+}

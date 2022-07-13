@@ -1,0 +1,240 @@
+{
+  "RegistrationUserTest:RegistrationUserTest#isCorrectRegistrationUser" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25d8a890f1aa8c7a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10380
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#checkSelectionSectionFilling" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96a483e85f98117",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2295
+      }
+    } ]
+  },
+  "LoginUserTest:LoginUserTest#isCorrectLoginViaForgotPasswordPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7b53df10eab7d5d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3071
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#checkSelectionSectionBulka" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2579ec4ba017c5f4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2293
+      }
+    } ]
+  },
+  "LoginUserTest:LoginUserTest#isCorrectLoginWithPersonalOffice" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2f9632ffc8cde91",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2206
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#isCorrectGoToMainPageWithPersonalOfficeLogStellarBurgers" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0fa2a1e75646c0e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2714
+      }
+    } ]
+  },
+  "GoToPersonalOfficeTest:GoToPersonalOfficeTest#isCorrectGotoPersonalOffice" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b64ca20986bdaf7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2723
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#checkSelectionSectionSauce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e34e3487ceb8c74",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2217
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#checkDefaultSelectedSectionBulka" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb80d6d94e78ee01",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2180
+      }
+    } ]
+  },
+  "LoginUserTest:LoginUserTest#isCorrectLoginWithLoginButton" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7bcd67da1ee76f9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2188
+      }
+    } ]
+  },
+  "ConstructorTest:ConstructorTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78473a7400b6d236",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2848
+      }
+    } ]
+  },
+  "LogoutUserTest:LogoutUserTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dee2c9923ac6a607",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2647
+      }
+    } ]
+  },
+  "LoginUserTest:LoginUserTest#isCorrectLoginViaRegistrationPage" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5537bf538e992890",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2702
+      }
+    } ]
+  },
+  "RegistrationUserTest:RegistrationUserTest#isRegistrationFailedShortPassword" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa50c7fb6d62b1d4",
+      "status" : "passed",
+      "time" : {
+        "duration" : 10731
+      }
+    } ]
+  }
+}
