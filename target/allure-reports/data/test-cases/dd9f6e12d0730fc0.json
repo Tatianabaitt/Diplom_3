@@ -1,9 +1,9 @@
 {
-  "uid" : "25d8a890f1aa8c7a",
-  "name" : "isCorrectRegistrationUser",
-  "historyId" : "RegistrationUserTest:RegistrationUserTest#isCorrectRegistrationUser",
+  "uid" : "dd9f6e12d0730fc0",
+  "name" : "isCorrectGotoPersonalOffice",
+  "historyId" : "GoToPersonalOfficeTest:GoToPersonalOfficeTest#isCorrectGotoPersonalOffice",
   "time" : {
-    "duration" : 10380
+    "duration" : 2650
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "e5c81ccb3ce880bb",
+      "uid" : "4933084a1a923626",
       "name" : "System out",
-      "source" : "e5c81ccb3ce880bb.txt",
+      "source" : "4933084a1a923626.txt",
       "type" : "text/plain",
-      "size" : 266
+      "size" : 267
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "RegistrationUserTest"
+    "value" : "GoToPersonalOfficeTest"
   }, {
     "name" : "testClass",
-    "value" : "RegistrationUserTest"
+    "value" : "GoToPersonalOfficeTest"
   }, {
     "name" : "package",
-    "value" : "RegistrationUserTest"
+    "value" : "GoToPersonalOfficeTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "25d8a890f1aa8c7a.json",
+  "source" : "dd9f6e12d0730fc0.json",
   "parameterValues" : [ ]
 }

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: LogoutUserTest
+Test set: GoToPersonalOfficeTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.647 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.651 sec

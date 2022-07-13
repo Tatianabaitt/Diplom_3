@@ -1,9 +1,9 @@
 {
-  "uid" : "fa50c7fb6d62b1d4",
-  "name" : "isRegistrationFailedShortPassword",
-  "historyId" : "RegistrationUserTest:RegistrationUserTest#isRegistrationFailedShortPassword",
+  "uid" : "f92b487f43e22460",
+  "name" : "isCorrectLoginViaForgotPasswordPage",
+  "historyId" : "LoginUserTest:LoginUserTest#isCorrectLoginViaForgotPasswordPage",
   "time" : {
-    "duration" : 10731
+    "duration" : 3146
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "e5c81ccb3ce880bb",
+      "uid" : "da7fb30fa28aa247",
       "name" : "System out",
-      "source" : "e5c81ccb3ce880bb.txt",
+      "source" : "da7fb30fa28aa247.txt",
       "type" : "text/plain",
-      "size" : 266
+      "size" : 259
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "RegistrationUserTest"
+    "value" : "LoginUserTest"
   }, {
     "name" : "testClass",
-    "value" : "RegistrationUserTest"
+    "value" : "LoginUserTest"
   }, {
     "name" : "package",
-    "value" : "RegistrationUserTest"
+    "value" : "LoginUserTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "fa50c7fb6d62b1d4.json",
+  "source" : "f92b487f43e22460.json",
   "parameterValues" : [ ]
 }

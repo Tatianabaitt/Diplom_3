@@ -1,9 +1,9 @@
 {
-  "uid" : "96a483e85f98117",
-  "name" : "checkSelectionSectionFilling",
-  "historyId" : "ConstructorTest:ConstructorTest#checkSelectionSectionFilling",
+  "uid" : "2b51b0527d57531e",
+  "name" : "isRegistrationFailedShortPassword",
+  "historyId" : "RegistrationUserTest:RegistrationUserTest#isRegistrationFailedShortPassword",
   "time" : {
-    "duration" : 2295
+    "duration" : 10165
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b5ea608fb4777051",
+      "uid" : "378eb7468df35ac7",
       "name" : "System out",
-      "source" : "b5ea608fb4777051.txt",
+      "source" : "378eb7468df35ac7.txt",
       "type" : "text/plain",
-      "size" : 261
+      "size" : 266
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "ConstructorTest"
+    "value" : "RegistrationUserTest"
   }, {
     "name" : "testClass",
-    "value" : "ConstructorTest"
+    "value" : "RegistrationUserTest"
   }, {
     "name" : "package",
-    "value" : "ConstructorTest"
+    "value" : "RegistrationUserTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "96a483e85f98117.json",
+  "source" : "2b51b0527d57531e.json",
   "parameterValues" : [ ]
 }

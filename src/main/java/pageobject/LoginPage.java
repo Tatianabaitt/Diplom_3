@@ -18,7 +18,7 @@ public class LoginPage {
     @FindBy(how = How.XPATH, using = ".//*[@type='text']")
     private SelenideElement fieldInputName;
     // локатор кнопки "Войти"
-    @FindBy(how = How.XPATH, using = ".//*[@class='button_button__33qZ0 button_button_type_primary__1O7Bx button_button_size_medium__3zxIa']")
+    @FindBy(how = How.XPATH, using = ".//*[text()='Войти']")
     private SelenideElement buttonLogin;
     // локатор ссылки "Восстановить пароль" внизу страницы
     @FindBy(how = How.XPATH, using = ".//*[text()='Восстановить пароль']")

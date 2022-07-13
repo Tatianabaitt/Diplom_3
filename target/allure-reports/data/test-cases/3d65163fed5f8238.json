@@ -1,9 +1,9 @@
 {
-  "uid" : "a7b53df10eab7d5d",
-  "name" : "isCorrectLoginViaForgotPasswordPage",
-  "historyId" : "LoginUserTest:LoginUserTest#isCorrectLoginViaForgotPasswordPage",
+  "uid" : "3d65163fed5f8238",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "historyId" : "ConstructorTest:ConstructorTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
   "time" : {
-    "duration" : 3071
+    "duration" : 2706
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b9bc0b767e8d6273",
+      "uid" : "bedc952389d24d23",
       "name" : "System out",
-      "source" : "b9bc0b767e8d6273.txt",
+      "source" : "bedc952389d24d23.txt",
       "type" : "text/plain",
-      "size" : 259
+      "size" : 261
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "testClass",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "package",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a7b53df10eab7d5d.json",
+  "source" : "3d65163fed5f8238.json",
   "parameterValues" : [ ]
 }

@@ -26,6 +26,7 @@ public class ConstructorTest extends BaseTest {
 
     @After
     public void teardown() {
+        token = userClient.login(creds);
         userClient.delete(token);
     }
 
@@ -42,7 +43,6 @@ public class ConstructorTest extends BaseTest {
                 .clickButtonConstructor()
                 .getUrlMainPage();
         assertEquals(message, expectedURL, actualURL);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -58,7 +58,6 @@ public class ConstructorTest extends BaseTest {
                 .clickLogoStellarBurgers()
                 .getUrlMainPage();
         assertEquals(message, expectedURL, actualURL);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -72,7 +71,6 @@ public class ConstructorTest extends BaseTest {
                 .clickButtonLogin()
                 .getNameSelectedSection();
         assertEquals(message, expectedNameSelectedSection, actualNameSelectedSection);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -88,7 +86,6 @@ public class ConstructorTest extends BaseTest {
                 .clickUnselectedSectionBulka()
                 .getNameSelectedSection();
         assertEquals(message, expectedNameSelectedSection, actualNameSelectedSection);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -103,7 +100,6 @@ public class ConstructorTest extends BaseTest {
                 .clickUnselectedSectionSauce()
                 .getNameSelectedSection();
         assertEquals(message, expectedNameSelectedSection, actualNameSelectedSection);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -118,6 +114,5 @@ public class ConstructorTest extends BaseTest {
                 .clickUnselectedSectionFilling()
                 .getNameSelectedSection();
         assertEquals(message, expectedNameSelectedSection, actualNameSelectedSection);
-        token = userClient.login(creds);
     }
 }

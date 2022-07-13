@@ -1,9 +1,9 @@
 {
-  "uid" : "fb80d6d94e78ee01",
-  "name" : "checkDefaultSelectedSectionBulka",
-  "historyId" : "ConstructorTest:ConstructorTest#checkDefaultSelectedSectionBulka",
+  "uid" : "705db41b3bcefd4",
+  "name" : "isCorrectLoginWithLoginButton",
+  "historyId" : "LoginUserTest:LoginUserTest#isCorrectLoginWithLoginButton",
   "time" : {
-    "duration" : 2180
+    "duration" : 2355
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b5ea608fb4777051",
+      "uid" : "da7fb30fa28aa247",
       "name" : "System out",
-      "source" : "b5ea608fb4777051.txt",
+      "source" : "da7fb30fa28aa247.txt",
       "type" : "text/plain",
-      "size" : 261
+      "size" : 259
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "ConstructorTest"
+    "value" : "LoginUserTest"
   }, {
     "name" : "testClass",
-    "value" : "ConstructorTest"
+    "value" : "LoginUserTest"
   }, {
     "name" : "package",
-    "value" : "ConstructorTest"
+    "value" : "LoginUserTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "fb80d6d94e78ee01.json",
+  "source" : "705db41b3bcefd4.json",
   "parameterValues" : [ ]
 }

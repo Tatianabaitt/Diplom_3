@@ -1,9 +1,9 @@
 {
-  "uid" : "5537bf538e992890",
-  "name" : "isCorrectLoginViaRegistrationPage",
-  "historyId" : "LoginUserTest:LoginUserTest#isCorrectLoginViaRegistrationPage",
+  "uid" : "fb32e9d663807ec9",
+  "name" : "checkSelectionSectionBulka",
+  "historyId" : "ConstructorTest:ConstructorTest#checkSelectionSectionBulka",
   "time" : {
-    "duration" : 2702
+    "duration" : 2673
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b9bc0b767e8d6273",
+      "uid" : "bedc952389d24d23",
       "name" : "System out",
-      "source" : "b9bc0b767e8d6273.txt",
+      "source" : "bedc952389d24d23.txt",
       "type" : "text/plain",
-      "size" : 259
+      "size" : 261
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "testClass",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "package",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "5537bf538e992890.json",
+  "source" : "fb32e9d663807ec9.json",
   "parameterValues" : [ ]
 }

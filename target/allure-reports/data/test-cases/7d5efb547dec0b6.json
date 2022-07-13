@@ -1,9 +1,9 @@
 {
-  "uid" : "e7bcd67da1ee76f9",
-  "name" : "isCorrectLoginWithLoginButton",
-  "historyId" : "LoginUserTest:LoginUserTest#isCorrectLoginWithLoginButton",
+  "uid" : "7d5efb547dec0b6",
+  "name" : "checkSelectionSectionSauce",
+  "historyId" : "ConstructorTest:ConstructorTest#checkSelectionSectionSauce",
   "time" : {
-    "duration" : 2188
+    "duration" : 2425
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b9bc0b767e8d6273",
+      "uid" : "bedc952389d24d23",
       "name" : "System out",
-      "source" : "b9bc0b767e8d6273.txt",
+      "source" : "bedc952389d24d23.txt",
       "type" : "text/plain",
-      "size" : 259
+      "size" : 261
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "testClass",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "package",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e7bcd67da1ee76f9.json",
+  "source" : "7d5efb547dec0b6.json",
   "parameterValues" : [ ]
 }

@@ -1,9 +1,9 @@
 {
-  "uid" : "dee2c9923ac6a607",
-  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
-  "historyId" : "LogoutUserTest:LogoutUserTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "uid" : "4f7911d00be2e499",
+  "name" : "isCorrectRegistrationUser",
+  "historyId" : "RegistrationUserTest:RegistrationUserTest#isCorrectRegistrationUser",
   "time" : {
-    "duration" : 2647
+    "duration" : 9755
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "d4ea66664e917583",
+      "uid" : "378eb7468df35ac7",
       "name" : "System out",
-      "source" : "d4ea66664e917583.txt",
+      "source" : "378eb7468df35ac7.txt",
       "type" : "text/plain",
-      "size" : 259
+      "size" : 266
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "LogoutUserTest"
+    "value" : "RegistrationUserTest"
   }, {
     "name" : "testClass",
-    "value" : "LogoutUserTest"
+    "value" : "RegistrationUserTest"
   }, {
     "name" : "package",
-    "value" : "LogoutUserTest"
+    "value" : "RegistrationUserTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "dee2c9923ac6a607.json",
+  "source" : "4f7911d00be2e499.json",
   "parameterValues" : [ ]
 }

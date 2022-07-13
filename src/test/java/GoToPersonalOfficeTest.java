@@ -26,6 +26,7 @@ public class GoToPersonalOfficeTest extends BaseTest {
 
     @After
     public void teardown() {
+        token = userClient.login(creds);
         userClient.delete(token);
     }
 
@@ -41,6 +42,5 @@ public class GoToPersonalOfficeTest extends BaseTest {
                 .clickButtonPersonalOffice()
                 .getTextPersonalOffice();
         assertEquals(message, expectedText, actualText);
-        token = userClient.login(creds);
     }
 }

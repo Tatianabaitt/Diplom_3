@@ -1,9 +1,9 @@
 {
-  "uid" : "2b64ca20986bdaf7",
-  "name" : "isCorrectGotoPersonalOffice",
-  "historyId" : "GoToPersonalOfficeTest:GoToPersonalOfficeTest#isCorrectGotoPersonalOffice",
+  "uid" : "a10ff13254dd1e7b",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "historyId" : "LogoutUserTest:LogoutUserTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
   "time" : {
-    "duration" : 2723
+    "duration" : 2992
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "16f50a7d193309c3",
+      "uid" : "e55827cc1af68ab8",
       "name" : "System out",
-      "source" : "16f50a7d193309c3.txt",
+      "source" : "e55827cc1af68ab8.txt",
       "type" : "text/plain",
-      "size" : 267
+      "size" : 259
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "GoToPersonalOfficeTest"
+    "value" : "LogoutUserTest"
   }, {
     "name" : "testClass",
-    "value" : "GoToPersonalOfficeTest"
+    "value" : "LogoutUserTest"
   }, {
     "name" : "package",
-    "value" : "GoToPersonalOfficeTest"
+    "value" : "LogoutUserTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2b64ca20986bdaf7.json",
+  "source" : "a10ff13254dd1e7b.json",
   "parameterValues" : [ ]
 }

@@ -9,6 +9,7 @@ public class BaseTest {
 
     @Before
     public void setBrowser() {
+        //Configuration.browser = "safari";
         WebDriverManager.chromedriver().setup();
         Configuration.startMaximized = true;
         mainPage = Selenide.open(MainPage.URL, MainPage.class);

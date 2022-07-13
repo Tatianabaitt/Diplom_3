@@ -1,9 +1,9 @@
 {
-  "uid" : "78473a7400b6d236",
-  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
-  "historyId" : "ConstructorTest:ConstructorTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "uid" : "e491f3a42c2ff67a",
+  "name" : "checkSelectionSectionFilling",
+  "historyId" : "ConstructorTest:ConstructorTest#checkSelectionSectionFilling",
   "time" : {
-    "duration" : 2848
+    "duration" : 2439
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,9 +16,9 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b5ea608fb4777051",
+      "uid" : "bedc952389d24d23",
       "name" : "System out",
-      "source" : "b5ea608fb4777051.txt",
+      "source" : "bedc952389d24d23.txt",
       "type" : "text/plain",
       "size" : 261
     } ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "78473a7400b6d236.json",
+  "source" : "e491f3a42c2ff67a.json",
   "parameterValues" : [ ]
 }

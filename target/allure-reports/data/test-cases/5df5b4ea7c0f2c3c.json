@@ -1,9 +1,9 @@
 {
-  "uid" : "d2f9632ffc8cde91",
-  "name" : "isCorrectLoginWithPersonalOffice",
-  "historyId" : "LoginUserTest:LoginUserTest#isCorrectLoginWithPersonalOffice",
+  "uid" : "5df5b4ea7c0f2c3c",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeLogStellarBurgers",
+  "historyId" : "ConstructorTest:ConstructorTest#isCorrectGoToMainPageWithPersonalOfficeLogStellarBurgers",
   "time" : {
-    "duration" : 2206
+    "duration" : 2709
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,11 +16,11 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b9bc0b767e8d6273",
+      "uid" : "bedc952389d24d23",
       "name" : "System out",
-      "source" : "b9bc0b767e8d6273.txt",
+      "source" : "bedc952389d24d23.txt",
       "type" : "text/plain",
-      "size" : 259
+      "size" : 261
     } ],
     "parameters" : [ ],
     "hasContent" : true,
@@ -34,13 +34,13 @@
     "value" : "junit"
   }, {
     "name" : "suite",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "testClass",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   }, {
     "name" : "package",
-    "value" : "LoginUserTest"
+    "value" : "ConstructorTest"
   } ],
   "parameters" : [ ],
   "links" : [ ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d2f9632ffc8cde91.json",
+  "source" : "5df5b4ea7c0f2c3c.json",
   "parameterValues" : [ ]
 }

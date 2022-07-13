@@ -1,9 +1,9 @@
 {
-  "uid" : "7e34e3487ceb8c74",
-  "name" : "checkSelectionSectionSauce",
-  "historyId" : "ConstructorTest:ConstructorTest#checkSelectionSectionSauce",
+  "uid" : "13dda35383de8796",
+  "name" : "checkDefaultSelectedSectionBulka",
+  "historyId" : "ConstructorTest:ConstructorTest#checkDefaultSelectedSectionBulka",
   "time" : {
-    "duration" : 2217
+    "duration" : 2249
   },
   "status" : "passed",
   "flaky" : false,
@@ -16,9 +16,9 @@
   "testStage" : {
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b5ea608fb4777051",
+      "uid" : "bedc952389d24d23",
       "name" : "System out",
-      "source" : "b5ea608fb4777051.txt",
+      "source" : "bedc952389d24d23.txt",
       "type" : "text/plain",
       "size" : 261
     } ],
@@ -52,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7e34e3487ceb8c74.json",
+  "source" : "13dda35383de8796.json",
   "parameterValues" : [ ]
 }

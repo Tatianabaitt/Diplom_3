@@ -26,6 +26,7 @@ public class LoginUserTest extends BaseTest {
 
     @After
     public void teardown() {
+        token = userClient.login(creds);
         userClient.delete(token);
     }
 
@@ -39,7 +40,6 @@ public class LoginUserTest extends BaseTest {
                 .inputPassword(user.getPassword())
                 .clickButtonLogin().getTextButtonLogin();
         assertEquals(message, expectedNameButton, actualNameButton);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -52,7 +52,6 @@ public class LoginUserTest extends BaseTest {
                 .inputPassword(user.getPassword())
                 .clickButtonLogin().getTextButtonLogin();
         assertEquals(message, expectedNameButton, actualNameButton);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -67,7 +66,6 @@ public class LoginUserTest extends BaseTest {
                 .inputPassword(user.getPassword())
                 .clickButtonLogin().getTextButtonLogin();
         assertEquals(message, expectedNameButton, actualNameButton);
-        token = userClient.login(creds);
     }
 
     @Test
@@ -82,6 +80,5 @@ public class LoginUserTest extends BaseTest {
                 .inputPassword(user.getPassword())
                 .clickButtonLogin().getTextButtonLogin();
         assertEquals(message, expectedNameButton, actualNameButton);
-        token = userClient.login(creds);
     }
 }

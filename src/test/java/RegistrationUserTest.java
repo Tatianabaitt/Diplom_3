@@ -32,9 +32,9 @@ public class RegistrationUserTest extends BaseTest {
                 .inputEmail(user.getEmail())
                 .inputPassword(user.getPassword())
                 .clickButtonLogin().getTextButtonLogin();
-        assertEquals(message, expectedNameButton, actualNameButton);
         Token token = userClient.login(creds);
         userClient.delete(token);
+        assertEquals(message, expectedNameButton, actualNameButton);
     }
 
     @Test
