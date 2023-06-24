@@ -1,0 +1,57 @@
+{
+  "uid" : "3d65163fed5f8238",
+  "name" : "isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "historyId" : "ConstructorTest:ConstructorTest#isCorrectGoToMainPageWithPersonalOfficeButtonConstructor",
+  "time" : {
+    "duration" : 2706
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bedc952389d24d23",
+      "name" : "System out",
+      "source" : "bedc952389d24d23.txt",
+      "type" : "text/plain",
+      "size" : 261
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "package",
+    "value" : "ConstructorTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d65163fed5f8238.json",
+  "parameterValues" : [ ]
+}
